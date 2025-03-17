@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #00eaff;
+    padding: 20px;
+    border-radius: 8px 8px 0 0;
+}
+.container{
+    background-color: red;
+    padding:;
+    border-radius: 8px 8px 0 0;
+
+}
+.praveen{
+    background-color:#00eaff;
+    padding: 20px;
+    border-radius: 8px 8px 0 0;
+}
+.ravi{
+    background-color: #00eaff;
+    padding: 20px;
+    border-radius: 8px 8px 0 0;
+}
+.hari{
+    background-color: #00eaff;
+    padding: 20px;
+    border-radius: 8px 8px 0 0;
+}
+.
